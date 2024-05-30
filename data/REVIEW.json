@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "customerName": "Muhammad Arya",
+      "customerImageUrl": "https://source.unsplash.com/50x50/?avatar&John-Doe",
+      "restaurantName": "Ampiran Kota",
+      "reviewDate": "2024-04-17",
+      "reviewText": "Makanan direstoran ini sangat enak, saya akan datang lagi nanti!",
+      "rating": 5
+    },
+    {
+      "customerName": "Putra Senja",
+      "customerImageUrl": "https://source.unsplash.com/50x50/?avatar&Jane-Smith",
+      "restaurantName": "Gigitan Cepat",
+      "reviewDate": "2024-04-16",
+      "reviewText": "Makanan direstoran ini sangat enak, saya akan datang lagi nanti!",
+      "rating": 4
+    },
+    {
+      "customerName": "Rafi Ahmad",
+      "customerImageUrl": "https://source.unsplash.com/50x50/?avatar&Michael-Johnson",
+      "restaurantName": "Rumah Senja",
+      "reviewDate": "2024-04-15",
+      "reviewText": "Makanan direstoran ini sangat enak, saya akan datang lagi nanti!",
+      "rating": 5
+    }
+  ]
+}
